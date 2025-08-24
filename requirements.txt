@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+datasets
+transformers>=4.43
+accelerate
+rouge-score
+kaggle
+bitsandbytes
+python-dotenv
